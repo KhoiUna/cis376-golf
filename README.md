@@ -9,4 +9,5 @@
 
 ## Jaiden
 
--
+- https://garner-jaiden.github.io/dev-lab-delta/
+- https://garner-jaiden.github.io/dev_lab_charlie/
