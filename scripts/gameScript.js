@@ -35,6 +35,17 @@ $(function () {
       link: "https://2fortdev.github.io/Echo-lab/",
       author: "Sam Aaron",
     },
+    {
+      title: "Professor-Doge",
+      link: "https://almostheaven52.github.io/Professor-Doge/",
+      author: "Zach Newell"
+    },
+    {
+      title: "Dogey-Howser",
+      link: "https://almostheaven52.github.io/dogey-howser/",
+      author: "Zach Newell"
+
+    }
   ];
   // iterate over the JSON array
   $.each(games, function (index, item) {
