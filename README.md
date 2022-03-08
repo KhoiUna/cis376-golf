@@ -10,3 +10,8 @@
 ## Jaiden
 
 -
+
+## Khoi
+
+- https://khoiuna.github.io/khoi_wow_meme/
+- https://khoiuna.github.io/cis-echo-lab/
