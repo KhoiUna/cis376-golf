@@ -16,3 +16,7 @@
 
 - https://khoiuna.github.io/khoi_wow_meme/
 - https://khoiuna.github.io/cis-echo-lab/
+
+## Zach
+- https://github.com/Almostheaven52/Professor-Doge
+- https://github.com/Almostheaven52/dogey-howser
