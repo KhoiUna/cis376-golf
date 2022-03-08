@@ -1,6 +1,6 @@
 # CIS376 dev lab golf
 
-## Collin
+## Colin
 
 - https://colintate24.github.io/lab-charlie/
 - https://colintate24.github.io/scaling-tribble/
