@@ -6,34 +6,19 @@ $(function () {
       author: "Colin Tate",
     },
     {
-      title: "Name Game",
+      title: "Cool Name Facts",
       link: "https://colintate24.github.io/scaling-tribble/",
       author: "Colin Tate",
     },
     {
-      title: "Macey's Game",
-      link: "https://maceyraejones.github.io/cautious-couscous/",
-      author: "Macey Jones",
+      title: "Khoi's Wow",
+      link: "https://khoiuna.github.io/khoi_wow_meme/",
+      author: "Khoi Nguyen",
     },
     {
-      title: "EchoGame",
-      link: "https://brandoncoplen.github.io/EchoLab1/",
-      author: "Brandon Coplen",
-    },
-    {
-      title: "NameGame",
-      link: "https://nkerstiens.github.io/Echo-Lab-376/",
-      author: "Noah Kerstiens",
-    },
-    {
-      title: "game4happiness",
-      link: "https://vanpham2000.github.io/game4happiness/",
-      author: "Van Pham",
-    },
-    {
-      title: "namePage",
-      link: "https://2fortdev.github.io/Echo-lab/",
-      author: "Sam Aaron",
+      title: "Echo Lab",
+      link: "https://khoiuna.github.io/cis-echo-lab/",
+      author: "Khoi Nguyen",
     },
   ];
   // iterate over the JSON array
