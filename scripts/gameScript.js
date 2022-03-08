@@ -3,12 +3,12 @@ $(function () {
     {
       title: "Charlie Wow",
       link: "https://colintate24.github.io/lab-charlie/",
-      author: "Colin",
+      author: "Colin Tate",
     },
     {
       title: "Name Game",
       link: "https://colintate24.github.io/scaling-tribble/",
-      author: "Colin",
+      author: "Colin Tate",
     },
     {
       title: "Macey's Game",
