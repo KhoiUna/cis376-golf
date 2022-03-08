@@ -11,14 +11,14 @@ $(function () {
       author: "Colin",
     },
     {
-      title: "Macey's Game",
-      link: "https://maceyraejones.github.io/cautious-couscous/",
-      author: "Macey Jones",
+      title: "Da Name Game",
+      link: "https://garner-jaiden.github.io/dev-lab-delta/",
+      author: "Jaiden Garner",
     },
     {
-      title: "EchoGame",
-      link: "https://brandoncoplen.github.io/EchoLab1/",
-      author: "Brandon Coplen",
+      title: "Many Wow Happy Doge",
+      link: "https://garner-jaiden.github.io/dev_lab_charlie/",
+      author: "Jaiden Garner",
     },
     {
       title: "NameGame",
