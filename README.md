@@ -16,3 +16,10 @@
 
 - https://khoiuna.github.io/khoi_wow_meme/
 - https://khoiuna.github.io/cis-echo-lab/
+
+## Natalie-Daniel
+- https://natalie-daniel.github.io/DELTA/
+- https://natalie-daniel.github.io/wowgame/
+
+## StudentZilla
+- https://studentzilla.github.io/studious-waffle/
