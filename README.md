@@ -27,3 +27,44 @@
 ## CDman814
 - https://cdman814.github.io/fuzzy-computing-machine/
 - https://cdman814.github.io/vigilant-octo-parakeet/
+
+## Zach
+- https://almostheaven52.github.io/dogey-howser/
+- https://almostheaven52.github.io/Professor-Doge-2.0/
+
+## Frosty9424
+- https://frosty9424.github.io/frostgames/
+
+## GatorDJ98
+- https://gatordj98.github.io/upgraded-bassoon/
+- https://gatordj98.github.io/symmetrical-fiesta/
+
+## Lterwilliger
+- https://lterwilliger.github.io/friendly-computing-machine/
+- https://lterwilliger.github.io/urban-train/
+
+## Laurenmalone01
+- https://laurenmalone01.github.io/shiny-shinee/
+- https://laurenmalone01.github.io/upgraded-memory/
+
+## Errorless-stone
+- https://errorless-stone.github.io/edgy-bourbon/
+- https://errorless-stone.github.io/cumbie-delta/
+
+## Akennemer
+- https://akennemer.github.io/extinction-party/
+- https://akennemer.github.io/teen-idle/
+
+## Cgooch99
+- https://cgooch99.github.io/CharlieCode/
+- https://cgooch99.github.io/juicy-fruit/
+
+## peytonjunjulas
+- https://peytonjunjulas.github.io/labCharlie/
+- https://peytonjunjulas.github.io/lab-Delta/
+
+## gavinraney
+- https://gavinraney.github.io/raney-lab-echo/
+- https://gavinraney.github.io/raney-lab-delta/
+
+## 
