@@ -1,7 +1,17 @@
 @charset "UTF-8";
+* {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.container-fluid {
+  padding: 0 !important;
+}
+
 .navigation {
   height: 70px;
   background: #263238;
+  padding: 0 1rem !important;
 }
 
 .brand {
@@ -160,31 +170,39 @@ article {
 
 .display-5 {
   text-align: center;
+  margin: 0.7rem 0 !important;
 }
 
 .jumbotron {
   background-color: #171717;
-  /*    width: 50%;
-	 height: 320px;
-	margin-top: 100px;
-	margin-left: 325px;
-	padding: 50px; */
 }
+
+#cards {
+  margin: 1rem 0 !important;
+}
+
+.card {
+  margin: 0.5rem !important;
+  padding: 0.8rem !important;
+}
+
 div {
   color: white;
 }
+
 #description {
   text-align: center;
 }
 
 footer .col_white_amrc {
   color: #fff;
+  padding: 0.5rem 0 !important;
 }
 footer {
   width: 100%;
   background-color: #263238;
-  min-height: 250px;
-  padding: 10px 0px 25px 0px;
+  min-height: 150px;
+  padding: 1rem !important;
 }
 .pt2 {
   padding-top: 40px;
