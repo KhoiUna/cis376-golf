@@ -22,15 +22,4 @@ $(function () {
   $(".cardOpen3").click(function () {
     $(".cardHide").show();
   });
-
-  // $('#dragInfo').hide();
-  // $('#positionInfo').hide();
-
-  // $('#dragButton').click(function() {
-  //   $('#dragInfo').show();
-  // });
-
-  // $('#dragClose').click(function() {
-  //   $('#dragInfo').hide();
-  // });
 });
