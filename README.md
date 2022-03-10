@@ -69,3 +69,7 @@
 
 ## kobyingram11
 - https://kobyingram11.github.io/scaling-palm-tree/
+
+## Jacobsanders7
+- https://jacobsanders7.github.io/expert-computing-machine/
+- https://jacobsanders7.github.io/crispy-telegram/pages/charlie-wow.html
