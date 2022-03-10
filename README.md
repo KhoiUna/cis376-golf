@@ -23,3 +23,7 @@
 
 ## StudentZilla
 - https://studentzilla.github.io/studious-waffle/
+
+## CDman814
+- https://cdman814.github.io/fuzzy-computing-machine/
+- https://cdman814.github.io/vigilant-octo-parakeet/
