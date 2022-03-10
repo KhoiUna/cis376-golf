@@ -10,6 +10,16 @@ export const games = [
     author: "Colin Tate",
   },
   {
+    title: "Da Name Game",
+    link: "https://garner-jaiden.github.io/dev-lab-delta/",
+    author: "Jaiden Garner",
+  },
+  {
+    title: "Many Wow Happy Doge",
+    link: "https://garner-jaiden.github.io/dev_lab_charlie/",
+    author: "Jaiden Garner",
+  },
+  {
     title: "Khoi's Wow",
     link: "https://khoiuna.github.io/khoi_wow_meme/",
     author: "Khoi Nguyen",
