@@ -30,3 +30,8 @@
 
 - https://github.com/Almostheaven52/dogey-howser
 - https://github.com/Almostheaven52/Professor-Doge
+
+## CDman814
+
+- https://cdman814.github.io/fuzzy-computing-machine/
+- https://cdman814.github.io/vigilant-octo-parakeet/
