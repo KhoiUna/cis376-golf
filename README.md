@@ -36,11 +36,6 @@
 - https://cdman814.github.io/fuzzy-computing-machine/
 - https://cdman814.github.io/vigilant-octo-parakeet/
 
-## Zach
-
-- https://almostheaven52.github.io/dogey-howser/
-- https://almostheaven52.github.io/Professor-Doge-2.0/
-
 ## Frosty9424
 
 - https://frosty9424.github.io/frostgames/
