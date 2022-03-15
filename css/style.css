@@ -46,6 +46,7 @@ article {
 .card {
   margin: 0.5rem !important;
   padding: 0.8rem !important;
+  height: fit-content;
 }
 
 div {
