@@ -16,6 +16,5 @@ $(function () {
  </div>`;
 
     $("#cards").append(el);
-    $(".nav-dropdown").append($(`<li><a href="#!"> ${item.author} </a></li>`));
   });
 });
